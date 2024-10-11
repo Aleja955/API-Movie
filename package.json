@@ -1,0 +1,15 @@
+{
+  "name": "api-practico",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://git@github.com:Aleja955/api-practico.git)"
+  },
+  "author": "Ale",
+  "license": "MIT",
+  "description": ""
+}
