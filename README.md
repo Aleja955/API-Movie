@@ -12,7 +12,7 @@ Este proyecto es un buscador de películas tomando como base el API-REST movieDB
 - Diseño responsivo.
 
 ## Cómo usarlo
-Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://aleja955.github.io/API-Movie/).
+Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://lizpaiva.github.io/api-rest-javascript/).
 
 ## Instalación local
 1. Clona el repositorio:
